@@ -12,7 +12,7 @@ Simulação de um sistema de monitoramento de temperatura industrial (caldeira) 
 
 ## 📺 Demonstração
 
-**Vídeo de Execução do Projeto:** https://docs.google.com/document/d/1Pb-SWSnbai6mjy9FgJr5dLpJTnAyNhEa/edit?usp=sharing&ouid=105551415645273119288&rtpof=true&sd=true
+**Vídeo de Execução do Projeto:** https://drive.google.com/file/d/1P2DPWaj4g3hJb2NvbFRDV6H07jhE2PB1/view?usp=drive_link
 
 ---
 
