@@ -1,10 +1,5 @@
-# AT03 - Invocação Remota e Comunicação Indireta
 
-Este repositório contém os códigos fonte desenvolvidos para a **Atividade 03** da disciplina de **Sistemas Distribuídos**, focada na comparação entre diferentes paradigmas de comunicação (**Sockets, RMI/RPC, HTTP**) e na implementação de um sistema de **Comunicação Indireta utilizando o protocolo MQTT**.
-
----
-
-## 📡 Parte 4: Projeto MQTT (Monitoramento IoT)
+# 📡  Projeto MQTT (Monitoramento IoT)
 
 Simulação de um sistema de monitoramento de temperatura industrial (caldeira) utilizando arquitetura **Pub/Sub** para desacoplamento entre produtores e consumidores de informação.
 
